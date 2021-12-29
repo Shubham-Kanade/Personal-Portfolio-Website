@@ -1,8 +1,8 @@
 # Personal-Portfolio-Website
-Download Zip and Extract
-Goto the base directory of the project
-Create a virtual environment and activate it.
-Install the requirements for the project
-$ pip install -r requirements.txt
-Now start the localhost server
-$ python manage.py runserver
+Download Zip and Extract<br />
+Goto the base directory of the project<br />
+Create a virtual environment and activate it.<br />
+Install the requirements for the project<br />
+$ pip install -r requirements.txt<br />
+Now start the localhost server<br />
+$ python manage.py runserver<br />
