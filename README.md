@@ -1,5 +1,4 @@
 # Personal-Portfolio-Website
-
 Download Zip and Extract
 Goto the base directory of the project
 Create a virtual environment and activate it.
